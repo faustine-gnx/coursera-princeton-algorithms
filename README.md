@@ -1,11 +1,16 @@
 # coursera-princeton-algorithms
 
-Percolation - score 99%
+Week 1 Percolation - score 99%
 --> to improve: calls to mean()/stddev()
 --> reduce memory: only one uf? but then how to avoid backwash?
+see details below
+
+Week 2 Queues - score 100%
 
 
-ASSESSMENT SUMMARY
+
+
+ASSESSMENT SUMMARY WEEK 1
 
 Compilation:  PASSED
 API:          PASSED
